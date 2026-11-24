@@ -50,9 +50,7 @@ Local file (not submitted from disk): `/workspace/competitions-2/qorechain-qores
   https://github.com/w1nter625/qorestamp/blob/main/logo.png
 
 ### Website / live demo
-https://w1nter625.github.io/qorestamp/
-
-Composer + verifier. Connecting QoreX is optional (switch the wallet to Testnet first). The verifier reads the public testnet API; it does not need the extension.
+The verifier UI lives in `web/` and is also on the `gh-pages` branch. https://w1nter625.github.io/qorestamp/ will work once GitHub Pages is enabled on that branch (the token used to push the repo could not flip the Pages switch). Until then, run `pnpm --dir web dev`, or skip this optional field. The required demo video is already public on jsDelivr.
 
 ### Testnet address the project uses
 `qor1vu4c2yqydsqssxmavx6mhc3a2nnslcyucmuk2a`  

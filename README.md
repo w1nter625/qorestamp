@@ -103,6 +103,13 @@ Runs on Hardhat's simulated network. Coverage: empty start, stamp + event,
 zero-digest rejection, two stampers with the same digest, unknown id, and
 SHA-256 versus keccak.
 
+
+## Demo video and live UI
+
+- Video (jsDelivr, use this in the fest form): https://cdn.jsdelivr.net/gh/w1nter625/qorestamp@gh-pages/demo.mp4
+- Release: https://github.com/w1nter625/qorestamp/releases/tag/demo-v1
+- Verifier UI source is in `web/`. A GitHub Pages site is prepared on the `gh-pages` branch; if https://w1nter625.github.io/qorestamp/ is not live yet, enable Pages on that branch in the repository settings, or run `pnpm --dir web dev` locally.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
