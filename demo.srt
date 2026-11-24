@@ -1,0 +1,64 @@
+1
+00:00:00,320 --> 00:00:05,648
+QoreStamp is a post-quantum receipt you can stamp and verify on the QoreChain testnet.
+
+2
+00:00:06,490 --> 00:00:09,266
+A lunch I.O.U. in a chat can be denied later.
+
+3
+00:00:09,216 --> 00:00:13,347
+After Q-Day, a classical signature alone may not be enough either.
+
+4
+00:00:14,220 --> 00:00:15,456
+Write the memo.
+
+5
+00:00:15,406 --> 00:00:19,012
+QoreStamp shows its SHA two fifty six digest.
+
+6
+00:00:19,012 --> 00:00:21,143
+The chain stores only that hash.
+
+7
+00:00:21,143 --> 00:00:23,591
+Anyone with the original text can check it.
+
+8
+00:00:24,470 --> 00:00:36,141
+On QoreChain, opening the EVM window is signed twice: once with secp two five six k one, and once with ML-DSA eighty seven, the FIPS two zero four post-quantum key.
+
+9
+00:00:36,976 --> 00:00:41,436
+Stamp Registry then records the digest, the stamper, and the time.
+
+10
+00:00:41,386 --> 00:00:46,136
+Six local tests cover the contract, including a zero digest rejection.
+
+11
+00:00:47,010 --> 00:00:49,049
+Paste the transaction hash.
+
+12
+00:00:48,999 --> 00:00:58,131
+The public testnet A.P.I. must show success, a P.Q.C. Hybrid Signature, and a pqc hybrid verify event with status verified.
+
+13
+00:00:59,012 --> 00:01:00,143
+QoreStamp.
+
+14
+00:01:00,093 --> 00:01:02,935
+Built for Build Before Q-Day, Quantum Pass.
+
+15
+00:01:02,935 --> 00:01:04,185
+Testnet only.
+
+16
+00:01:04,185 --> 00:01:06,777
+No camera, no mainnet funds.
+
